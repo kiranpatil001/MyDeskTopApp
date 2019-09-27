@@ -1,0 +1,7 @@
+D:\DesktopApp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\DesktopApp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\DesktopApp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\DesktopApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\DesktopApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\DesktopApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\DesktopApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
